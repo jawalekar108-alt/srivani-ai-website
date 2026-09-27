@@ -6,7 +6,7 @@ import {
 } from "lucide-react";
 
 const COMPANY = "Srivani AI";
-const EMAIL = "contact@srivaniai.com";
+const EMAIL = "jawalekar108@gmail.com";
 
 function Layout({ children }) {
   const location = useLocation();
