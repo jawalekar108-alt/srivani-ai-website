@@ -303,6 +303,7 @@ function App() {
       <Route path="/contact" element={<Contact/>}/>
       <Route path="/privacy-policy" element={<Privacy/>}/>
       <Route path="/terms" element={<Terms/>}/>
+      <Route path="/data-deletion" element={<DataDeletion/>}/>
       <Route path="*" element={<Home/>}/>
     </Routes>
   </Layout>;
