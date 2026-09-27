@@ -1,5 +1,6 @@
 import React, { useEffect } from "react";
 import { Link, Route, Routes, useLocation } from "react-router-dom";
+import DataDeletion from "./DataDeletion";
 import {
   ArrowRight, Bot, CheckCircle2, Instagram, MessageCircle,
   Sparkles, Zap, ShieldCheck, BarChart3, Menu, X, Mail, Globe2
