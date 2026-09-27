@@ -66,6 +66,7 @@ function Footer() {
           <Link to="/about">About</Link>
           <Link to="/services">Services</Link>
           <Link to="/contact">Contact</Link>
+          <Link to="/data-deletion">Data Deletion</Link>
         </div>
         <div>
           <h4>Legal</h4>
